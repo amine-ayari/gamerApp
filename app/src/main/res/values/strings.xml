@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">gamerApp</string>
+    <string name="ligne"><u>register now</u></string>
+    <string name="ligne2"><u>terms & conditions and privacy policy</u></string>
+    <string name="Resend"><u>Resend code</u></string>
+
+</resources>
